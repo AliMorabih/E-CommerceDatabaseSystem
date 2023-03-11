@@ -1,4 +1,4 @@
-# E-CommerceDatabaseSystem
+## E-Commerce Database System
 
 An e-commerce database system is a software application that manages data related to online sales and transactions. It is the backbone of an e-commerce business and allows companies to store, organize, and retrieve large amounts of data quickly and efficiently.
 
