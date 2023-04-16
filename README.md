@@ -13,3 +13,8 @@ Order : This table tracks the details of customer orders, including order number
 Inventory : This table tracks the inventory levels of products and helps ensure that products are always in stock and available for purchase.
 
 Payment : This table handles payment information for customer orders, including credit card information and payment history.
+
+
+Docker pull alimorabih/mysqlimage:latest
+
+Docker run -p 3316:3306 alimorabih/mysqlimage:latest
